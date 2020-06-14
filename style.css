@@ -1,18 +1,25 @@
 body {
-	font-family: Helvetica;
+	font-family: 'DM Sans', sans-serif;
 	font-size: 20px;
 	margin :0;
 }
 
-#logo {
-	height: 80px;
-	width: 80px;
+.maincolor {
+  background-color: #09b9ae
 }
 
-#container {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	height: 100vh;
-	flex-direction: column;
+.secondcolor {
+  background-color: #09b9ae
 }
+
+.thirdcolor {
+  background-color: #09b9ae
+}
+
+.text {
+  color: #1c3144
+}
+
+#09b9ae
+#1c3144
+#fafafa
